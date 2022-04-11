@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "199531037688",
+    "project_id": "oturumislemleri-9877a",
+    "storage_bucket": "oturumislemleri-9877a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199531037688:android:3fa75847e9a13ea4388c0d",
+        "android_client_info": {
+          "package_name": "com.example.oturumislemleri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199531037688-6n7apmfc73ovde3fl6n8dtr43689q3ss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkx3gk__De4HLDTErHNmJ_H56Rt60l6Qw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199531037688-6n7apmfc73ovde3fl6n8dtr43689q3ss.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
